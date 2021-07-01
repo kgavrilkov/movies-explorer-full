@@ -1,0 +1,15 @@
+module.exports = {
+  INVALID_EMAIL: 'Email не валиден',
+  INCORRECT_EMAIL_PASSWORD: 'Неправильные почта или пароль',
+  INVALID_URL: 'URL-адрес не валиден',
+  NOT_AUTHORIZED: 'Необходима авторизация',
+  DUPLICATED_EMAIL: 'Пользователь с таким email уже существует',
+  INCORRECT_DATA: 'Переданы некорректные данные',
+  USER_NOT_FOUND: 'Пользователь не найден',
+  MOVIE_NOT_FOUND: 'Фильм не найден',
+  MOVIE_DELETED: 'Фильм удалён',
+  FORBIDDEN_DELETE_MOVIE: 'Нельзя удалить чужой фильм',
+  RATE_LIMIT: 'Превышено количество запросов с одного ip адреса',
+  RESOURCE_NOT_FOUND: 'Ресурс не найден',
+  SERVER_ERROR: 'На сервере произошла ошибка',
+};
